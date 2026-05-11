@@ -70,5 +70,8 @@ recall@k against ground truth, (b) a no-filter baseline pass, and (c) a
 filter-only microbenchmark that calls the predicate `n × queries` times to
 isolate the cost of the bit operation from HNSW traversal. Selectivity (the
 fraction of items passing the predicate) is recorded so latency can be
-interpreted in context. 
+interpreted in context.
 
+## License
+
+MIT - see [LICENSE](LICENSE). Vendored deps keep their own licenses under `third_party/`.
