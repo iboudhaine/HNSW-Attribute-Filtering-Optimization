@@ -17,17 +17,7 @@ that attribute set on time, memory, and recall:
 
 **What this project does *not* do.** It does not modify HNSW traversal - the
 vendored `hnswlib` is upstream-pristine. There is no dynamic brute-force/ANN
-switch. These two are stretched goals.
-
-## Layout
-
-```
-include/anf/      project headers (representations, filter, dataset, ground truth, bench utils)
-apps/             benchmark.cpp, verify.cpp
-tests/            doctest-based unit tests
-third_party/      vendored hnswlib + CRoaring amalgamation (refresh via scripts/install_deps.sh)
-scripts/          install_deps.sh, run_benchmarks.sh, plot_results.py
-```
+switch.
 
 ## Build
 
