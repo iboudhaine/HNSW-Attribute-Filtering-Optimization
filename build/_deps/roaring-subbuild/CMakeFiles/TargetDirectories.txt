@@ -1,3 +1,0 @@
-C:/Code/HNSW-Attribute-Filtering-Optimization/build/_deps/roaring-subbuild/CMakeFiles/roaring-populate.dir
-C:/Code/HNSW-Attribute-Filtering-Optimization/build/_deps/roaring-subbuild/CMakeFiles/edit_cache.dir
-C:/Code/HNSW-Attribute-Filtering-Optimization/build/_deps/roaring-subbuild/CMakeFiles/rebuild_cache.dir

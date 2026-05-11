@@ -1,3 +1,0 @@
-C:/Code/HNSW-Attribute-Filtering-Optimization/build/_deps/cmocka-subbuild/CMakeFiles/cmocka-populate.dir
-C:/Code/HNSW-Attribute-Filtering-Optimization/build/_deps/cmocka-subbuild/CMakeFiles/edit_cache.dir
-C:/Code/HNSW-Attribute-Filtering-Optimization/build/_deps/cmocka-subbuild/CMakeFiles/rebuild_cache.dir
